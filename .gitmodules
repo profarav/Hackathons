@@ -4,3 +4,6 @@
 [submodule "Playa"]
 	path = Playa
 	url = https://github.com/R0H1T-RAJU/Playa.git
+[submodule "playa-mood-synth"]
+	path = playa-mood-synth
+	url = https://github.com/profarav/playa-mood-synth.git
