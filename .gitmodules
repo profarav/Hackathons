@@ -1,3 +1,6 @@
 [submodule "Pathways"]
 	path = Pathways
 	url = https://github.com/ir272/Pathways.git
+[submodule "Playa"]
+	path = Playa
+	url = https://github.com/R0H1T-RAJU/Playa.git
