@@ -1,0 +1,6 @@
+[submodule "HackTX Backend"]
+	path = HackTX Backend
+	url = https://github.com/HackTX-Project/backend.git
+[submodule "HackTX Frontend"]
+	path = HackTX Frontend
+	url = https://github.com/HackTX-Project/frontend.git
