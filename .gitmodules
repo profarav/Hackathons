@@ -7,3 +7,6 @@
 [submodule "playa-mood-synth"]
 	path = playa-mood-synth
 	url = https://github.com/profarav/playa-mood-synth.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HackTX-Project/frontend.git
