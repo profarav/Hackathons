@@ -13,3 +13,12 @@
 [submodule "backend"]
 	path = HackTX Backend
 	url = https://github.com/HackTX-Project/backend.git
+[submodule "HackTX Backend"]
+	path = HackTX Backend
+	url = https://github.com/aravlohe/hacktx-backend.git
+[submodule "HackTX Frontend"]
+	path = HackTX Frontend
+	url = https://github.com/aravlohe/hacktx-frontend.git
+[submodule "HackTX FrontEnd"]
+	path = HackTX FrontEnd
+	url = https://github.com/HackTX-Project/frontend.git
